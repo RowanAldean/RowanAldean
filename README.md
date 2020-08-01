@@ -1,4 +1,4 @@
-### What's up, my name is Rowan [website] ✌🏽
+### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
 - 🔭 I’m currently working on the [Aldean Design][design-website] website launch!
@@ -34,6 +34,6 @@
 <br />
 
 [design-website]: https://www.aldeandesign.com/
-[website]: www.rowanaldean.github.io
+[website]: https://rowanaldean.github.io/
 [youtube]: https://www.youtube.com/channel/UCFNwcJUO-5aeU3b7-mh3kdw
 [linkedin]: https://www.linkedin.com/in/raldean/
