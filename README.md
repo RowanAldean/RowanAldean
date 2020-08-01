@@ -42,6 +42,9 @@
 <br />
 
 ---
+[![Rowan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rowanaldean)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+---
 📺 Sometimes I post YouTube Videos! Recent ones will be here ↓↓↓
 <!-- YOUTUBE:START -->
 - [(READ DESC) Making 2D games using JavaFX! Kitchen Catastrophe V1 CS230 Video Demo](https://www.youtube.com/watch?v=uPakI8p3xQA)
