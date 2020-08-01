@@ -43,7 +43,7 @@
 
 ---
 
-[![Rowan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rowanaldean&show_icons=true&count_private=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rowan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rowanaldean&show_icons=true&count_private=true&theme=buefy&hide=issues,contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowanaldean&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
