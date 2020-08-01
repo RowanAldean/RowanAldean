@@ -47,7 +47,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rowanaldean&show_icons=true&count_private=true&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanaldean&layout=compact&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanaldean&layout=compact&theme=buefy*hide_border=true" />
 </a>
 <br />
 ---
