@@ -2,16 +2,21 @@
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
 - 🔭 I’m currently working on the [Aldean Design][design-website] website launch!
-- 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)! 🤣
+- 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
+    - Philosophy
+    - Psychology
+    - Business
+    - Finance
+    - Personal Development
 - 🥅 2020 Goals: Learn more about the different areas being worked on in the open-source world!
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
-### Connect with me:
+### Where you can find me:
 
+[<img align="left" alt="Rowan Aldean | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rowan Aldean | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Rowan Aldean | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -37,7 +42,7 @@
 <br />
 
 ---
-📺 Sometimes I post YouTube Videos! Recent ones will be here 😎
+📺 Sometimes I post YouTube Videos! Recent ones will be here ↓↓↓
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
