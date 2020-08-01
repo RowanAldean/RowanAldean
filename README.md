@@ -1,14 +1,14 @@
 ### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 🔭 I’m currently working on the [Aldean Design][design-website] website launch!
+- 📝 I’m currently working on the [Aldean Design][design-website] website launch!
 - 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
-    - Philosophy
-    - Psychology
-    - Business
-    - Finance
-    - Personal Development
-- 🥅 2020 Goals: Learn more about the different areas being worked on in the open-source world!
+    - Philosophy 🤔
+    - Psychology 🧠
+    - Business 📈
+    - Finance 💰
+    - Personal Development 📚
+- 🎯 2020 Goals: Learn more about the different areas being worked on in the open-source world!
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
