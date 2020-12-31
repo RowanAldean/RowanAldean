@@ -1,7 +1,7 @@
 ### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 📝 I’m currently working on the [Aldean Design][design-website] website launch!
+- 📝 I’m currently working on the [Aldean Software][software-website] website launch!
 - 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
     - Philosophy 🤔
     - Psychology 🧠
@@ -55,7 +55,7 @@
 - [Ride-hailing Services CS130 Video Presentation](https://www.youtube.com/watch?v=-9PGQjApeEw)
 <!-- YOUTUBE:END -->
 
-[design-website]: https://www.aldeandesign.com/
+[software-website]: https://www.aldeansoftware.com/
 [website]: https://rowanaldean.github.io/
 [youtube]: https://www.youtube.com/channel/UCFNwcJUO-5aeU3b7-mh3kdw
 [linkedin]: https://www.linkedin.com/in/raldean/
