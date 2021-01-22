@@ -8,7 +8,7 @@
     - Business 📈
     - Finance 💰
     - Personal Development 📚
-- 🎯 2020 Goals: Learn more about the different areas being worked on in the open-source world!
+- 🎯 2021 Goals: I have a varied list - the first few months of the year will be focused on Jamstack web development and mobile app development using Flutter!
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
