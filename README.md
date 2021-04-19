@@ -1,7 +1,7 @@
 ### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 📝 I’m currently working on the [Aldean Software][software-website] website launch!
+- 📝 I’m currently working on the a cross-platform Fitness application (Express/Next/Flutter) and updating/rebuilding the [Driven Daily][https://www.aldeansoftware.com/case-study/driven-daily] (from Apache Cordova -> Flutter) mobile app!
 - 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
     - Philosophy 🤔
     - Psychology 🧠
