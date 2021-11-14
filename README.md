@@ -49,7 +49,7 @@
 ---
 📺 Sometimes I post YouTube Videos! Recent ones will be here ↓↓↓
 <!-- YOUTUBE:START -->
-- [(READ DESC) Making 2D games using JavaFX! Kitchen Catastrophe V1 CS230 Video Demo](https://www.youtube.com/watch?v=uPakI8p3xQA)
+- [&lpar;READ DESC&rpar; Making 2D games using JavaFX! Kitchen Catastrophe V1 CS230 Video Demo](https://www.youtube.com/watch?v=uPakI8p3xQA)
 - [Working on games using JavaFX! Kitchen Catastrophe V2 CS235 Video Demo](https://www.youtube.com/watch?v=Upq4GQy_ujI)
 - [How to create a minigame using JavaFX! Kitchen Catastrophe V3 CS235 User Research Video Demo](https://www.youtube.com/watch?v=K9PwPViuhuk)
 - [Ride-hailing Services CS130 Video Presentation](https://www.youtube.com/watch?v=-9PGQjApeEw)
