@@ -8,7 +8,7 @@
     - Business 📈
     - Finance 💰
     - Personal Development 📚
-- 🎯 2021 Goals: I have a varied list - the first few months of the year will be focused on Jamstack web development and mobile app development using Flutter!
+- 🎯 2022 Goals: Experiment with a broader range of web based technologies and make more consistent use of containerization - I'm looking to produce more well engineered code!
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
