@@ -1,14 +1,14 @@
 ### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 📝 I’m currently working on a cross-platform Fitness application (Express/Next/Flutter) for my Final Year Project and using Laravel to create a blog for one of my modules (available on my GH asap)!
+- 📝 I’m currently working on my personal website and brand - this is a Jamstack website using Strapi and Gatsby however i'm still in the discovery phase and development should be in steady progress (whenever you're reading this!)
 - 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
     - Philosophy 🤔
     - Psychology 🧠
     - Business 📈
     - Finance 💰
     - Personal Development 📚
-- 🎯 2022 Goals: Experiment with a broader range of web based technologies and make more consistent use of containerization - I'm looking to produce more well engineered code!
+- 🎯 2022 Goals: Greatly improve as a C# engineer and improve my high level architectural skills and understanding. This'll be achieved through both my professional job and personal projects as well as conscious reading and the pursuit of my AWS certifications.
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
