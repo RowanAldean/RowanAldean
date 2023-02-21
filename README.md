@@ -1,7 +1,7 @@
 ### What's up, my name is [Rowan][website] ✌🏽
 
 ## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 📝 I’m currently working on my personal website and brand - this is a Jamstack website using Strapi and Gatsby however i'm still in the discovery phase and development should be in steady progress (whenever you're reading this!)
+- 📝 I’m currently working on my personal website and brand - this section will be updated with a link to the repo revealing the full stack and details once launched!
 - 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
     - Philosophy 🤔
     - Psychology 🧠
