@@ -8,7 +8,7 @@
     - Business 📈
     - Finance 💰
     - Personal Development 📚
-- 🎯 2022 Goals: Greatly improve as a C# engineer and improve my high level architectural skills and understanding. This'll be achieved through both my professional job and personal projects as well as conscious reading and the pursuit of my AWS certifications.
+- 🎯 2023 Goals: Greatly improve as a C# engineer and improve my high level architectural skills and understanding. This'll be achieved through both my professional job and personal projects as well as conscious reading and the pursuit of my AWS certifications.
 - 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
 
 
