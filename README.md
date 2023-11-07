@@ -1,7 +1,7 @@
 ## What's up, my name is [Rowan][website] ✌🏽
 
 ### I'm a former Software Engineer turned Founder and a lifetime learner!
-- 📝 Currently working on growing [Casa](https://casa-platform) - which will be the leader in AI-first property search.
+- 📝 Currently working on growing [Casa](https://casa-platform.com) - which will be the leader in AI-first property search.
 - 🌱 Currently learning mostly through experience and networking largely in the AI/ML and startup space. I still have the same hobbies but 'founder life' makes everything a bit more muddled.
 - 🎯 2023 Goals: All Casa success metrics are reached.
 - 🏀 I'm super into basketball and love to play anywhere and everywhere!
