@@ -1,19 +1,15 @@
-### What's up, my name is [Rowan][website] ✌🏽
+## What's up, my name is [Rowan][website] ✌🏽
 
-## I'm a Software Engineer, Entrepreneur, and lifetime learner!
-- 📝 I’m currently working on my personal website and brand - this section will be updated with a link to the repo revealing the full stack and details once launched!
-- 🌱 I'm currently learning so much in many areas (I keep a reading list too if you're interested)!🤣
-    - Philosophy 🤔
-    - Psychology 🧠
-    - Business 📈
-    - Finance 💰
-    - Personal Development 📚
-- 🎯 2023 Goals: Greatly improve as a C# engineer and improve my high level architectural skills and understanding. This'll be achieved through both my professional job and personal projects as well as conscious reading and the pursuit of my AWS certifications.
-- 🏀 Fun fact: I'm super into basketball and love to play anywhere and everywhere!
+### I'm a former Software Engineer turned Founder and a lifetime learner!
+- 📝 Currently working on growing [Casa](https://casa-platform) - which will be the leader in AI-first property search.
+- 🌱 Currently learning mostly through experience and networking largely in the AI/ML and startup space. I still have the same hobbies but 'founder life' makes everything a bit more muddled.
+- 🎯 2023 Goals: All Casa success metrics are reached.
+- 🏀 I'm super into basketball and love to play anywhere and everywhere!
 
 
 ### Where you can find me:
 
+[<img align="left" alt="Rowan Aldean | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.1/icons/x.svg" />][twitter]
 [<img align="left" alt="Rowan Aldean | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rowan Aldean | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -56,6 +52,7 @@
 <!-- YOUTUBE:END -->
 
 [aldean-software]: https://www.aldeansoftware.com/case-study/driven-daily
-[website]: https://rowanaldean.github.io/
+[website]: https://rowans-planet.com/
 [youtube]: https://www.youtube.com/channel/UCFNwcJUO-5aeU3b7-mh3kdw
 [linkedin]: https://www.linkedin.com/in/raldean/
+[twitter]: https://twitter.com/rowans_planet
